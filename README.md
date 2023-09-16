@@ -10,4 +10,4 @@ git clone https://github.com/eikehacker1/SSRF.git
 
 ACESSAR NA URL:
 
-http://127.0.0.1/?news=https://exemple.com
+http://127.0.0.1:777/?news=https://exemple.com
